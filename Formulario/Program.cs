@@ -18,5 +18,6 @@ namespace Formulario
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
     }
 }
